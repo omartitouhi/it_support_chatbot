@@ -1,0 +1,6 @@
+Problem,Solution,Source
+"Blue Screen of Death","Update drivers, run Windows Troubleshooter","Microsoft Support KB123456"
+"Printer not detected","Check connections, install latest drivers","Microsoft Support KB789012"
+"DNS server not responding","Flush DNS with ipconfig /flushdns","Microsoft Support KB345678"
+"Windows Update failed","Run Windows Update Troubleshooter, check internet connection","Microsoft Support KB456789"
+"Application crashes on startup","Reinstall application, update Windows","Microsoft Support KB112233"

@@ -1,0 +1,1 @@
+here we put all the raw data that the model will use
